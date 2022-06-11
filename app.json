@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Oasisfrontend",
+    "slug": "Oasisfrontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.Oasisfrontend.Oasisfrontend",
+      "versionCode": 5
+    },
+    "ios": {
+      "bundleIdentifier": "com.Oasisfrontend.Oasisfrontend",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+   
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": ""
+  }
+}
